@@ -1,4 +1,4 @@
-FROM golang:1.21
+FROM golang:1.26.3
 
 ARG USER=$USER
 ARG UID=$UID
